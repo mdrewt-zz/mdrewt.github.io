@@ -1,3 +1,8 @@
 #screen {
   border: 2px solid black;
+  width: 802px;
+  overflow: auto;
+  margin: auto;
+  padding: 0px;
+  
 }
